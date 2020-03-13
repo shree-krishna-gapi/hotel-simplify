@@ -1,0 +1,25 @@
+SHA-KEY Generating **************
+ssh-keygen -t rsa
+type in cmd
+***************
+Db*********
+hotelSimplifyUser -> userInfo
+hotelSimplifyToken -> token
+pos -> id list
+posId -> user click single id (kitchen, resturant,counter)
+singlePosPointData -> PosPage
+singleParentMenu -> side menu parent data landing
+singleChildMenu -> side menu child data landing
+singleSectionData -> Table Section data
+dynamicSectionId -> side menu parent id
+menuItemsId -> * from childMenuItems menu
+menuId -> parent Gallery Id for child item
+newsectionId ->
+sectionId -> set on the depend user tap
+menuItems -> Item name list for orders
+menuName -> items order list
+item0 -> counter number saved
+****************
+
+single ****
+subTot -> sum of menu item orders
